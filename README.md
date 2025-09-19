@@ -1,6 +1,8 @@
 # Co-Clustering Deep Latent Block Model
 
-explain the concept, inria project...
+%% Building ... %%
+
+(explain the concept, inria project...)
 
 The detailled of the theorical part of the model is in the file Co-Clustering_DLBM.pdf 
 
