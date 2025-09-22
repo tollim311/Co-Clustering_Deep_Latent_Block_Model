@@ -17,13 +17,15 @@ This notebook contain the training of the model on data generated on the LBM gen
 ## movielens_data.ipynb
 
 This notebook contain the training of the model on real data from movielens dataset.
-Necessary files : 
-Warning : the files is training on 20000 X 8000 size matrix and read files with more than 700M datapoint
-For info on the dataset check : https://grouplens.org/datasets/movielens/
+
+Necessary files : ratings.dat (or movielens.csv if created)
+
+Warning : the files is training on 20000 X 8000 size matrix and read files with more than 700M datapoint. For more info on the dataset check : https://grouplens.org/datasets/movielens/
 
 ## model.py
 
 Necessary files : args.py
+
 This file contain only the model architecture
 
 ## args.py
